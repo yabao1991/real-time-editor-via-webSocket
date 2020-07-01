@@ -4,14 +4,17 @@
 ## React
 ## [express](https://www.npmjs.com/package/express)
 ## [websocket](https://www.npmjs.com/package/websocket)
-## [http]
+## http
 
 ## Available Scripts
 
 In the project directory, you can run:
-
+## client
 ### Step 1: `yarn install`
 ### Step 2: `yarn start`
+
+## server
+### Step 1: `node index.js`
 
 <!-- Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
